@@ -1,2 +1,2 @@
-#After sequencing samples from the Parkinson's Progression Markers Initiative (PPMI), I tested the code for accuracy of data extraction from OXford Nanopore Technology (ONT) sequencing report.
-#Following a few tests and modifications the code works effectively, and we can extract sequencing data for each samples without doing mannual entries as previously done.
+After sequencing samples from the Parkinson's Progression Markers Initiative (PPMI), I tested the code for accuracy in extracting data from Oxford Nanopore Technology (ONT) sequencing reports. Following a few tests and modifications, the code now works effectively, allowing us to extract sequencing data for each sample without manual entries as previously required.
+PS: Authors: Cory Weller, Chelsea Alvarado, Kensuke Daida, Jon Moller, Cedric Kouam.
